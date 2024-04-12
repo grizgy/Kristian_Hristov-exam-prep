@@ -21,4 +21,4 @@ jobs:
     - run: npm run build --if-present
     - run: npm test
     - name: Display softuni username
-    - run: echo Kristian_Hristov
+      run: echo Kristian_Hristov
